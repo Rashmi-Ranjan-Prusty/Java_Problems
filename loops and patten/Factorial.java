@@ -5,6 +5,6 @@ public class Factorial {
             fact=fact*num;
             num--;
         }
-        System.out.println(fact);
+        System.out.println("The factorial of given number is"+fact);
     }
 }
