@@ -21,9 +21,9 @@ public class Palindrome {
 
         // Check for palindrome
         if (reversed == original) {
-            System.out.println("Palindrome");
+            System.out.println("Palindrome number");
         } else {
-            System.out.println("Not a Palindrome");
+            System.out.println("Not a Palindrome number");
         }
 
         sc.close(); // Always close the scanner
